@@ -11,7 +11,8 @@ h2{
 }
 h3{
 	color: #4a2697 ;
-	font-family: 'Times New Roman', serif;
+	font-family: 'Georgia', serif;
+	font-size: 14pt;
 	font-style: italic;
 	text-align: right;
 }
@@ -21,9 +22,10 @@ body {
 a {
 	color: white;
 }
-.row {
+.container {
 	border: 1px dashed grey;
 	background: white;
+	padding: 20px;
 }
 img {
 	width: 350px;
