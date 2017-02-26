@@ -1,0 +1,31 @@
+
+h1{
+	color: #691b38;
+	font-family: 'Droid Sans', sans-serif;
+}
+h2{
+	color: #691b38;
+	font-family: 'Droid Sans', sans-serif;
+	text-align: center;
+	text-decoration: underline;
+}
+h3{
+	color: #4a2697 ;
+	font-family: 'Times New Roman', serif;
+	font-style: italic;
+	text-align: right;
+}
+body {
+	background-image: url("../img/swirl_pattern.png");
+}
+a {
+	color: white;
+}
+.row {
+	border: 1px dashed grey;
+	background: white;
+}
+img {
+	width: 350px;
+	border-radius: 20px;
+}
